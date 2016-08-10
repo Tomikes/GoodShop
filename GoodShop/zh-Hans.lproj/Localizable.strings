@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  GoodShop
+
+  Created by mike on 5/12/16.
+  Copyright © 2016 mike. All rights reserved.
+*/
+"HomeName"="主页";
+"FenLei"="分类";
+"ShopCar"="购物车";
+"User"="用户";
+"placeholder"="搜索商品";
+"cancelTitile"="取消";
+"Drop-down refresh"="下拉刷新";
+"Release immediately refresh"="松开立即刷新";
+"Refreshing"="正在刷新";
+"CategoryTitle"="分类";

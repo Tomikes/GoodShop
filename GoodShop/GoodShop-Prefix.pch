@@ -1,0 +1,19 @@
+//
+//  GoodShop.pch
+//  GoodShop
+//
+//  Created by mike on 5/12/16.
+//  Copyright © 2016 mike. All rights reserved.
+//
+
+#ifndef GoodShop_pch
+#define GoodShop_pch
+
+#import "UIColor+HEX.h"
+#import "Size_mac.h"
+#import "AppThemeColor_mac.h"
+#import "UIView+Frame.h"
+#import "UIScreen+Frame.h"
+#import "UIView+Extension.h"
+
+#endif /* GoodShop_pch */

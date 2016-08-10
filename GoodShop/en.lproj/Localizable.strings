@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  GoodShop
+
+  Created by mike on 5/12/16.
+  Copyright © 2016 mike. All rights reserved.
+*/
+"HomeName"="Home";
+"FenLei"="Category";
+"ShopCar"="ShopCar";
+"User"="User";
+"placeholder"="search goods!";
+"cancelTitile"="cancel";
+"Drop-down refresh"="Drop-down refresh";
+"Release immediately refresh"="Release immediately refresh";
+"Refreshing"="Refreshing";
+"CategoryTitle"="Category";
